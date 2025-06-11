@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>REDO Meme Quotes</title>
-    <link>https://app.ston.fi/swap?ft=TON&tt=REDO&chartVisible=true&chartInterval=1w</link>
+    <link>https://app.ston.fi/swap?ft=TON&amp;tt=REDO&amp;chartVisible=true&amp;chartInterval=1w</link>
     <description>Daily meme coin quotes for REDO</description>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jun 2025 12:00:00 GMT</lastBuildDate>
@@ -10,9 +10,9 @@
     <item>
       <title>2025-06-12</title>
       <description>REDO is flossing harder than your bags.</description>
-      <link>https://app.ston.fi/swap?ft=TON&tt=REDO&chartVisible=true&chartInterval=1d</link>
+      <link>https://app.ston.fi/swap?ft=TON&amp;tt=REDO&amp;chartVisible=true&amp;chartInterval=1d</link>
       <guid>2025-06-12</guid>
       <pubDate>Wed, 12 Jun 2025 12:00:00 GMT</pubDate>
     </item>
   </channel>
-</rss> 
+</rss>
